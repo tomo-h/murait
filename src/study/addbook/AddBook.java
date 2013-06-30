@@ -10,6 +10,11 @@ import study.addbook.beans.BookIF;
 import study.addbook.beans.Magazine;
 import sutdy.addbook.util.FileUtil;
 
+/**
+ * 演習問題解答例
+ * @author tomo*h
+ *
+ */
 public class AddBook {
 
     public static void main(String[] args) {
