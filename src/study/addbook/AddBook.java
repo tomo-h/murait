@@ -8,7 +8,7 @@ import java.util.List;
 import study.addbook.beans.Book;
 import study.addbook.beans.BookIF;
 import study.addbook.beans.Magazine;
-import sutdy.addbook.util.FileUtil;
+import study.addbook.util.FileUtil;
 
 /**
  * 演習問題解答例

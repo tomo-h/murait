@@ -1,4 +1,4 @@
-package sutdy.addbook.util;
+package study.addbook.util;
 
 public class BookUtil {
     

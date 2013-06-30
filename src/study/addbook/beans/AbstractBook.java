@@ -3,7 +3,7 @@ package study.addbook.beans;
 import java.io.Serializable;
 
 import study.addbook.Constants;
-import sutdy.addbook.util.BookUtil;
+import study.addbook.util.BookUtil;
 
 public abstract class AbstractBook implements BookIF, Serializable {
     // 書籍区分

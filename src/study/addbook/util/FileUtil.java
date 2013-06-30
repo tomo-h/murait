@@ -1,4 +1,4 @@
-package sutdy.addbook.util;
+package study.addbook.util;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
